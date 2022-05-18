@@ -1,0 +1,1 @@
+html,css,javaScript,php,c#,No SQL,Sql,advanced backend: Message Queue,rest api or Graphql, deploy backend: google cloud, Heroku, git.
